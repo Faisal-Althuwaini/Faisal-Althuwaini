@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-althuwaini&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-althuwaini" /> </p>
 
-- 🔭 I’m currently working on [Sultan Al-Jrboa portfolio](sultanaljrboa.tech)
+- 🔭 I’m currently working on [Sultan Al-Jrboa portfolio](https://sultanaljrboa.tech)
 
 - 🌱 I’m currently learning **ReactJS, Backend development**
 
