@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faisal Al-Thuwaini</h1>
+<h1 align="center">Hi 👋, I'm Faisal Althuwaini</h1>
 <h3 align="center">A passionate Frontend developer and Graphics designer from Saudi arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-althuwaini&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-althuwaini" /> </p>
