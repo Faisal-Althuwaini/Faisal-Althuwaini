@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-althuwaini&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-althuwaini" /> </p>
 
-- 🔭 I’m currently working on [Hatem - AI Assistant](https://meethatem.com)
+- 🔭 I’m currently working on [Hatem - AI Academic Assistant](https://meethatem.com)
 
 - 🌱 I’m currently learning **ReactJS, Backend development**
 
